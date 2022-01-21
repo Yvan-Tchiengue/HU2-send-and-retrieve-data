@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"pis.hue2.common","l":"DataSocketReader"},{"p":"pis.hue2.common","l":"Gui"},{"p":"pis.hue2.common","l":"Instruction"},{"p":"pis.hue2.client","l":"LaunchClient"},{"p":"pis.hue2.server","l":"LaunchServer"}];updateSearchResults();
